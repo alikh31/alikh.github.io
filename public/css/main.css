@@ -1,8 +1,8 @@
 #home {
     background:
-    url(/images/backtop.png) top repeat-x ,
-    url(/images/backbot.png) 0px bottom repeat-x,
-    url(/images/background.jpg);
+    url(/public/images/backtop.png) top repeat-x ,
+    url(/public/images/backbot.png) 0px bottom repeat-x,
+    url(/public/images/background.jpg);
     background-repeat: no-repeat;
 }
 
