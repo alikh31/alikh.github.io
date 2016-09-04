@@ -1,1 +1,0 @@
-# alikh.github.io
